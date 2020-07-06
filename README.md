@@ -1,1 +1,1 @@
-# udacity_forntend-track_project
+# Udacity_Forntend_Lab
